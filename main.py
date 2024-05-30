@@ -45,7 +45,7 @@ st.title("RAG SAMPLE")
 
 @st.cache_data(show_spinner=False)
 def embeddings():
-    model_path = f"intfloat/multilingual-e5-large"
+    model_path = f"intfloat/multilingual-e5-base"
 
     # ローカル版
     # model_path = f"/models/multilingual-e5-large"
