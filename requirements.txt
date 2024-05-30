@@ -2,7 +2,7 @@ streamlit
 streamlit-chat
 streamlit_pdf_viewer
 groq
-faiss-gpu
+faiss-cpu
 langchain
 langchain-community
 sentence-transformers
